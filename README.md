@@ -1,4 +1,6 @@
 # Bin-Smart
+Thùng rác thông minh là một sản phẩm công nghệ hiện đại tích hợp nhiều tính năng đáng chú ý như phân loại rác, tự động hóa các quy trình xử lý và đảm bảo vệ sinh môi trường. Khi người sử dụng tiến đến, khoảng cách 5cm - 10cm, cảm biến hồng ngoại sẽ kích hoạt nắp thùng để người dùng bỏ rác và đóng nắp kín sau khi hoàn tất. Hình ảnh rác được ghi lại bởi camera và thông qua việc sử dụng công nghệ Machine Learning, các loại rác sẽ được phân loại và rơi vào ô chứa tương ứng. Khi thùng rác đầy, loa tích hợp sẽ cảnh báo người dùng để đưa rác đi đổ. Thùng rác thông minh được trang bị một ESP8266 để kết nối wifi, nhưng trong tình hình dịch bệnh, MQTT Explorer có thể được sử dụng để giả lập ESP8266 và kết nối với NodeRED và MQTT.
+
 Bản vẽ bên ngoài
 
 ![image](https://user-images.githubusercontent.com/101247575/225342699-3fa95e2a-3a2e-4809-a566-343e7b4f9562.png)
